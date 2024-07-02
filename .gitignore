@@ -1,0 +1,8 @@
+*.db
+*.py[cod]
+.web
+__pycache__/
+crop.exe
+crop/
+out/
+venv/
