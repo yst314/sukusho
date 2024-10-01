@@ -6,3 +6,4 @@ crop.exe
 crop/
 out/
 venv/
+tmp
